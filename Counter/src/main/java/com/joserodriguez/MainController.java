@@ -47,5 +47,9 @@ public class MainController {
 		//session.removeAttribute(); since I'm not specifying an attribute to be removed I used invalidate 
 		return "redirect:/counter";
 	}
+	
+	
+	//How to manage errors despite I am not getting any of them?
+	
 
 }
